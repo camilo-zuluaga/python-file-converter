@@ -26,4 +26,4 @@ Run the `main.py` file to start the script. U can convert files with the followi
 
 ## Contributing
 
-Pull requests are welcome, always want to learn something new from other developers!
+Pull requests are welcome, always want to learn something new from other developers!.
