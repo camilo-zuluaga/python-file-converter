@@ -8,9 +8,10 @@ correct_answer = False
 
 # Title
 print(figlet_format("File Converter", font= "slant"))
+print("Made by: [https://github.com/camilo-zuluaga]")
 
 # Script
-print("Welcome to File converter!, this is a simple script to convert your document´s extension.")
+print("\nWelcome to File converter!, this is a simple script to convert your document´s extension.")
 print("These are the supported extensions [JPG, PNG, PDF, ICO, WEBP].")
 
 answer = input("\nDo you wanna convert any files? [Y/N]: ")
