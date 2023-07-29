@@ -2,7 +2,6 @@
 from pyfiglet import figlet_format
 from functions import print_menu
 from functions import converter_menu
-import sys
 
 # Variables
 correct_answer = False
@@ -33,4 +32,3 @@ while answer == "Y" or answer == "y":
     answer = input("\nDo you wanna convert another file? [Y/N]: ")
 else:
     print("Finishing script...")
-    sys.exit()
