@@ -52,6 +52,11 @@ These are the options below!:
 
 ···> 
 ```
+
+## Errors
+
+If any error appears while installing requirements.txt, you can look up the packages and install them manually.
+
 ## Contributing
 
 Pull requests are welcome, always want to learn something new from other developers!.
